@@ -17,7 +17,6 @@ We're using (or going to):
     - Undertow `(As the servlets container)`
     - Hibernate Validator `(For REST API Validation)`
     - JUnit with SpringRunner `(For Unit Tests)`
-    - Elasticsearch
   
   - Frontend
     - Vue
