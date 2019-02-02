@@ -8,6 +8,7 @@
 ## Table of contents
 - [Code of Conduct](https://github.com/coachy-software/Coachy/tree/master/coc)
 - Firsttimers
+  - [Setup Intellij IDEA](https://github.com/coachy-software/Coachy/tree/master/setup-intellij)
   - [Java code style](https://github.com/coachy-software/Coachy/tree/master/code-style)
   - [Issue template](https://github.com/coachy-software/Coachy/tree/master/issues)
   - [Pull requests](https://github.com/coachy-software/Coachy/tree/master/pull-requests)
