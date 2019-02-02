@@ -10,19 +10,22 @@ We're using (or going to):
     - Spring `(For rest services)`
       - Boot,
       - Security,
-      - Data for MongoDB
-    - Log4J2 `(For logging)`
-    - MongoDB `(As a database)`
+      - Data MongoDB
+    - Log4J2
+    - MongoDB
     - Swagger `(For REST API docs)`
     - Undertow `(As the servlets container)`
     - Hibernate Validator `(For REST API Validation)`
-    - JUnit with SpringRunner `(For Unit Tests)`
+    - JUnit 5
+    - QueryDSL 
   
   - Frontend
     - Vue
       - Vuex,
       - Vuelidate,
-      - Vue CLI 3
+      - Vue CLI 3,
+      - Vue i18n
     - Nodemon
     - Bootstrap 4
+    - Pug 
     
