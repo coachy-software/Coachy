@@ -7,16 +7,15 @@
 
 We're using (or going to):  
   - Backend
-    - Spring `(For rest services)`
-      - Boot,
+    - Spring Boot
       - Security,
       - Data MongoDB
     - Log4J2
     - MongoDB
-    - Swagger `(For REST API docs)`
-    - Undertow `(As the servlets container)`
-    - Hibernate Validator `(For REST API Validation)`
-    - JUnit 5
+    - Swagger
+    - Undertow 
+    - Hibernate Validator 
+    - Spock Framework with Groovy
     - QueryDSL 
   
   - Frontend
