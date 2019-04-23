@@ -13,10 +13,11 @@ We're using (or going to):
     - Log4J2
     - MongoDB
     - Swagger
-    - Undertow 
+    - Tomcat
     - Hibernate Validator 
     - Spock Framework with Groovy
     - QueryDSL 
+    - STOMP
   
   - Frontend
     - Vue
@@ -27,4 +28,5 @@ We're using (or going to):
     - Nodemon
     - Bootstrap 4
     - Pug 
+    ...
     
