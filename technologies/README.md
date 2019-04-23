@@ -28,5 +28,5 @@ We're using (or going to):
     - Nodemon
     - Bootstrap 4
     - Pug 
-    ...
+    - `...`
     
